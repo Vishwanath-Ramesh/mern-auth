@@ -8,11 +8,12 @@ const instance = axios.create({
   },
 })
 
-const getAPIData = async (method, url, postData) => {
+const getAPIData = async (method, url, postData, headers) => {
   const response = await instance({
     method,
     url,
     data: postData,
+    headers,
   })
   return response
 }
