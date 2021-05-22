@@ -1,8 +1,6 @@
 ## Summary
 
-This is a fullstack boilerplate setup project for MERN stack application
-
-For [React frontend application boilerplate](https://github.com/Vishwanath-Ramesh/react-boilerplate)
+A fullstack MERN application with simple authentication and authorization implementation.
 
 ## Tools & Libraries used
 
@@ -14,7 +12,6 @@ For [React frontend application boilerplate](https://github.com/Vishwanath-Rames
 - Axios
 - Webpack
 - Babel
-- heroku
 - ESlint
 - Jest
 
