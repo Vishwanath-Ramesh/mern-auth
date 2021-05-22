@@ -1,6 +1,6 @@
 ## Summary
 
-A fullstack MERN application with simple authentication and authorization implementation.
+A fullstack MERN application with simple authentication and authorization implemented.
 
 ## Tools & Libraries used
 
